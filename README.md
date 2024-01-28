@@ -32,3 +32,7 @@
 - [mongoose](https://mongoosejs.com/)
 - [tailwindcss](https://tailwindcss.com/)
 - [mongodb](https://www.mongodb.com/)
+
+- ## Credential
+- username: shuvo@gmail.com
+- password: 123456
